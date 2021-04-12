@@ -1,0 +1,9 @@
+@relation vote.symbolic
+
+@attribute sex {M, F}
+@attribute age {Old, Young}
+@attribute income {High, Low}
+@attribute vote {+, -}
+
+@data
+M, Young, Low, ?
